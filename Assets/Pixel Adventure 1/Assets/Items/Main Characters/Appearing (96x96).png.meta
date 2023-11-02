@@ -1,28 +1,28 @@
 fileFormatVersion: 2
-guid: 99e1beacf34e67c42afd2d344aefcc3c
+guid: 3421078018dc3934a8c1ab3b7bf89aa0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4241635684806205602
-    second: Desappearing (96x96)_0
+      213: 5583492486709806376
+    second: Appearing (96x96)_0
   - first:
-      213: 5641638529897069760
-    second: Desappearing (96x96)_1
+      213: -7221402579709423187
+    second: Appearing (96x96)_1
   - first:
-      213: 203894707262023572
-    second: Desappearing (96x96)_2
+      213: 6077175626366064899
+    second: Appearing (96x96)_2
   - first:
-      213: -2011412612036983366
-    second: Desappearing (96x96)_3
+      213: -1869290018219920624
+    second: Appearing (96x96)_3
   - first:
-      213: 2053719668135419293
-    second: Desappearing (96x96)_4
+      213: 47813434996547701
+    second: Appearing (96x96)_4
   - first:
-      213: -6415160527855421042
-    second: Desappearing (96x96)_5
+      213: -942136525895816471
+    second: Appearing (96x96)_5
   - first:
-      213: -8265649554163657122
-    second: Desappearing (96x96)_6
+      213: 5061900860415834490
+    second: Appearing (96x96)_6
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -69,7 +69,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -144,7 +144,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Desappearing (96x96)_0
+      name: Appearing (96x96)_0
       rect:
         serializedVersion: 2
         x: 0
@@ -158,14 +158,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 14d356bb49034e04580c4faca11c1028
-      internalID: -4241635684806205602
+      spriteID: 39da1cfcde2d4f24593e67a0f2c1126f
+      internalID: 5583492486709806376
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Desappearing (96x96)_1
+      name: Appearing (96x96)_1
       rect:
         serializedVersion: 2
         x: 96
@@ -179,14 +179,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4662b1ef958441940aa2141a14e824c7
-      internalID: 5641638529897069760
+      spriteID: 177ae72c6546518488d4d9784a09258a
+      internalID: -7221402579709423187
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Desappearing (96x96)_2
+      name: Appearing (96x96)_2
       rect:
         serializedVersion: 2
         x: 192
@@ -200,14 +200,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 273189e47fac0504fba7f6469576f11d
-      internalID: 203894707262023572
+      spriteID: 8c15876ae95865d45b18647f040696c0
+      internalID: 6077175626366064899
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Desappearing (96x96)_3
+      name: Appearing (96x96)_3
       rect:
         serializedVersion: 2
         x: 288
@@ -221,14 +221,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b284d9c3f93a0ab4ca975f798ba93de4
-      internalID: -2011412612036983366
+      spriteID: c29b90a9b0dae7947a0b5ff2a736f8cc
+      internalID: -1869290018219920624
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Desappearing (96x96)_4
+      name: Appearing (96x96)_4
       rect:
         serializedVersion: 2
         x: 384
@@ -242,14 +242,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9be82fa3a7f0ae429dbfec85a3a60a8
-      internalID: 2053719668135419293
+      spriteID: bb0ef8a4a01ca5d4a9f1b29045666752
+      internalID: 47813434996547701
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Desappearing (96x96)_5
+      name: Appearing (96x96)_5
       rect:
         serializedVersion: 2
         x: 480
@@ -263,14 +263,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bbbf9106c6356d347a8bf649f3192e75
-      internalID: -6415160527855421042
+      spriteID: 2ae0b85f2262aa24c83209a55622712f
+      internalID: -942136525895816471
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Desappearing (96x96)_6
+      name: Appearing (96x96)_6
       rect:
         serializedVersion: 2
         x: 576
@@ -284,8 +284,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 427d4e30ec2b14643b4211bd0f3b6483
-      internalID: -8265649554163657122
+      spriteID: 80d5cd797f317c246b57ad3fb9370333
+      internalID: 5061900860415834490
       vertices: []
       indices: 
       edges: []
@@ -301,13 +301,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Desappearing (96x96)_0: -4241635684806205602
-      Desappearing (96x96)_1: 5641638529897069760
-      Desappearing (96x96)_2: 203894707262023572
-      Desappearing (96x96)_3: -2011412612036983366
-      Desappearing (96x96)_4: 2053719668135419293
-      Desappearing (96x96)_5: -6415160527855421042
-      Desappearing (96x96)_6: -8265649554163657122
+      Appearing (96x96)_0: 5583492486709806376
+      Appearing (96x96)_1: -7221402579709423187
+      Appearing (96x96)_2: 6077175626366064899
+      Appearing (96x96)_3: -1869290018219920624
+      Appearing (96x96)_4: 47813434996547701
+      Appearing (96x96)_5: -942136525895816471
+      Appearing (96x96)_6: 5061900860415834490
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
